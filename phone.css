@@ -1,3 +1,6 @@
+/* body{
+    overflow: hidden;
+} */
 #navbar{
 flex-direction: column;    
 }
@@ -12,10 +15,10 @@ flex-direction: column;
  padding: 74px 68px;
 }
 #home::before{
-    height: 480px;
+    height: 495px;
 }
 #home p{
-    font-size: 13px;
+    font-size: 0.8rem;
 }
 
 #services{
@@ -39,9 +42,23 @@ flex-direction: column;
 }
 .h-primary{
     font-size: 23px;
-    padding-top: 30px;
+    padding-top: 50px;
 }
-.btn,.btn2{
+.btn{
     padding: 4px 8px;
     font-size: 13px;
+}
+.btn :hover {
+    color: rgb(236, 82, 82);
+    cursor: pointer;
+}
+.btn2 :hover {
+    color: rgb(236, 82, 82);
+    cursor: pointer;
+}
+.btn2{
+    padding: 4px 8px;
+    margin: 14px 93px;
+    font-size: 13px;
+    cursor: pointer;
 }
