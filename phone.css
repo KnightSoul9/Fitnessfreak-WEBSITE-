@@ -7,9 +7,9 @@ flex-direction: column;
     padding-bottom: 8px;
 }
 #home{
- height: 370px;
+ height: 300px;
  flex-direction: column;
- padding: 3px 68px;
+ padding: 74px 68px;
 }
 #home::before{
     height: 480px;
