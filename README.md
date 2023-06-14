@@ -1,6 +1,6 @@
 # Fitnessfreak: Gym WebPage
 
-## Live Link : [https://knightsoul9.github.io/Fitnessfreak/](https://knightsoul9.github.io/Fitnessfreak/)
+## Live Link : [(https://knightsoul9.github.io/Fitnessfreak-WEBSITE-/)](https://knightsoul9.github.io/Fitnessfreak/)
 
 ### Tech Used 
 1. Html 
